@@ -66,6 +66,7 @@ coverage.xml
 # Data files
 *.jsonl
 *.pkl
+*.csv
 
 # OS files
 .DS_Store
